@@ -54,7 +54,7 @@ IceUtil/IceUtil.h
 QtCore
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/AprilTags.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/AprilTags.cpp
 AprilTags.h
 -
 Ice/LocalException.h
@@ -68,7 +68,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/CommonBehavior.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/CommonBehavior.cpp
 CommonBehavior.h
 -
 Ice/LocalException.h
@@ -82,7 +82,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/DifferentialRobot.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/DifferentialRobot.cpp
 DifferentialRobot.h
 -
 Ice/LocalException.h
@@ -96,7 +96,7 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/GotoPoint.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/GotoPoint.cpp
 GotoPoint.h
 -
 Ice/LocalException.h
@@ -110,11 +110,11 @@ Ice/Object.h
 IceUtil/Iterator.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/apriltagsI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/apriltagsI.cpp
 apriltagsI.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/apriltagsI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/apriltagsI.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/apriltagsI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/apriltagsI.h
 QtCore/QObject
 -
 Ice/Ice.h
@@ -124,13 +124,13 @@ AprilTags.h
 config.h
 -
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/commonbehaviorI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/commonbehaviorI.cpp
 commonbehaviorI.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/commonbehaviorI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/commonbehaviorI.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/commonbehaviorI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/commonbehaviorI.h
 QtCore/QObject
 -
 Ice/Ice.h
@@ -140,37 +140,37 @@ CommonBehavior.h
 config.h
 -
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 genericmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/config.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/config.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.cpp
 genericmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 Ice/Ice.h
 -
 QtCore
 -
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 config.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/config.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/config.h
 qlog/qlog.h
 -
 CommonBehavior.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.cpp
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 config.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/config.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/config.h
 QtGui
 -
 stdint.h
@@ -190,7 +190,7 @@ AprilTags.h
 IceStorm/IceStorm.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/main.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/main.cpp
 signal.h
 -
 QtCore
@@ -208,17 +208,17 @@ rapplication/rapplication.h
 qlog/qlog.h
 -
 config.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/config.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/config.h
 genericmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 specificworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificworker.h
 specificmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificmonitor.h
 commonbehaviorI.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/commonbehaviorI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/commonbehaviorI.h
 apriltagsI.h
 -
 AprilTags.h
@@ -228,61 +228,61 @@ DifferentialRobot.h
 GotoPoint.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_apriltagsI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_apriltagsI.cpp
 apriltagsI.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/apriltagsI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/apriltagsI.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_commonbehaviorI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_commonbehaviorI.cpp
 commonbehaviorI.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/commonbehaviorI.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/commonbehaviorI.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_genericmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_genericmonitor.cpp
 genericmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_genericworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_genericworker.cpp
 genericworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericworker.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_specificmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_specificmonitor.cpp
 specificmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_specificworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_specificworker.cpp
 specificworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificworker.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificmonitor.cpp
 specificmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificmonitor.h
 genericmonitor.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/genericmonitor.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/genericmonitor.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificworker.cpp
 specificworker.h
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificworker.h
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/specificworker.h
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/specificworker.h
 genericworker.h
 -
 innermodel/innermodel.h
 -
 
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/supervisor_automoc.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/supervisor_automoc.cpp
 moc_apriltagsI.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_apriltagsI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_apriltagsI.cpp
 moc_commonbehaviorI.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_commonbehaviorI.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_commonbehaviorI.cpp
 moc_genericmonitor.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_genericmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_genericmonitor.cpp
 moc_genericworker.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_genericworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_genericworker.cpp
 moc_specificmonitor.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_specificmonitor.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_specificmonitor.cpp
 moc_specificworker.cpp
-/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/supervisor/src/moc_specificworker.cpp
+/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/supervisor/src/moc_specificworker.cpp
 
 /opt/robocomp/include/innermodel/innermodel.h
 stdexcept

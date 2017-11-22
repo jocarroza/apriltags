@@ -4,22 +4,22 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CommonBehavior.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/CommonBehavior.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/DifferentialRobot.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/DifferentialRobot.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/GotoPoint.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/GotoPoint.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/Laser.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/Laser.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/RCISMousePicker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/RCISMousePicker.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/choca_automoc.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/choca_automoc.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/commonbehaviorI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/commonbehaviorI.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericmonitor.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/genericmonitor.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/genericworker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/genericworker.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/gotopointI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/gotopointI.cpp.o"
-  "/home/robocomp/robocomp/classes/qlog/qlog.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/home/robocomp/robocomp/classes/qlog/qlog.cpp.o"
-  "/home/robocomp/robocomp/classes/rapplication/rapplication.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/home/robocomp/robocomp/classes/rapplication/rapplication.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/main.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/main.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/rcismousepickerI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/rcismousepickerI.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificmonitor.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/specificmonitor.cpp.o"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/specificworker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca.dir/specificworker.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CommonBehavior.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/CommonBehavior.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/DifferentialRobot.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/DifferentialRobot.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/GotoPoint.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/GotoPoint.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/Laser.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/Laser.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/RCISMousePicker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/RCISMousePicker.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/choca_automoc.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/choca_automoc.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/commonbehaviorI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/commonbehaviorI.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/genericmonitor.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/genericmonitor.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/genericworker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/genericworker.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/gotopointI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/gotopointI.cpp.o"
+  "/home/robocomp/robocomp/classes/qlog/qlog.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/home/robocomp/robocomp/classes/qlog/qlog.cpp.o"
+  "/home/robocomp/robocomp/classes/rapplication/rapplication.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/home/robocomp/robocomp/classes/rapplication/rapplication.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/main.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/main.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/rcismousepickerI.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/rcismousepickerI.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/specificmonitor.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/specificmonitor.cpp.o"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/specificworker.cpp" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca.dir/specificworker.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -53,11 +53,11 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Pairs of files generated by the same build rule.
 set(CMAKE_MULTIPLE_OUTPUT_PAIRS
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CommonBehavior.h" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CommonBehavior.cpp"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/DifferentialRobot.h" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/DifferentialRobot.cpp"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/GotoPoint.h" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/GotoPoint.cpp"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/Laser.h" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/Laser.cpp"
-  "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/RCISMousePicker.h" "/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/RCISMousePicker.cpp"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CommonBehavior.h" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CommonBehavior.cpp"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/DifferentialRobot.h" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/DifferentialRobot.cpp"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/GotoPoint.h" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/GotoPoint.cpp"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/Laser.h" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/Laser.cpp"
+  "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/RCISMousePicker.h" "/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/RCISMousePicker.cpp"
   )
 
 

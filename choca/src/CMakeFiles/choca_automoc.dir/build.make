@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca
+CMAKE_SOURCE_DIR = /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca
+CMAKE_BINARY_DIR = /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca
 
 # Utility rule file for choca_automoc.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/ch
 include src/CMakeFiles/choca_automoc.dir/progress.make
 
 src/CMakeFiles/choca_automoc:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc for target choca"
-	cd /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src && /usr/bin/cmake -E cmake_autogen /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca_automoc.dir/ ""
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic moc for target choca"
+	cd /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src && /usr/bin/cmake -E cmake_autogen /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca_automoc.dir/ ""
 
 choca_automoc: src/CMakeFiles/choca_automoc
 choca_automoc: src/CMakeFiles/choca_automoc.dir/build.make
@@ -68,10 +68,10 @@ src/CMakeFiles/choca_automoc.dir/build: choca_automoc
 .PHONY : src/CMakeFiles/choca_automoc.dir/build
 
 src/CMakeFiles/choca_automoc.dir/clean:
-	cd /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src && $(CMAKE_COMMAND) -P CMakeFiles/choca_automoc.dir/cmake_clean.cmake
+	cd /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src && $(CMAKE_COMMAND) -P CMakeFiles/choca_automoc.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/choca_automoc.dir/clean
 
 src/CMakeFiles/choca_automoc.dir/depend:
-	cd /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src /home/robocomp/robocomp/components/CarrozaGarcia/Practica1/choca/src/CMakeFiles/choca_automoc.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src /home/robocomp/robocomp/components/CarrozaGarcia/apriltags/choca/src/CMakeFiles/choca_automoc.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : src/CMakeFiles/choca_automoc.dir/depend
 
